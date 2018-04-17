@@ -14,4 +14,5 @@ This is the final project slidify presentation source code for the Developing Da
 2. `server.R` and `ui.R` files: [Link](https://github.com/savitakohli/Developing-Data-Products-Final-Project/shiny-app)
 
 3. Slidify Pres: [Link](https://savitakohli.github.io/)
+For Slidify Presentation, pleasse click here https://savitakohli.github.io/
 
