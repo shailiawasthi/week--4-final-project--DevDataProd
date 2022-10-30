@@ -1,6 +1,6 @@
 library(shiny)
 library(plotly)
-    titlePanel("Airquality prediction Model")
+    titlePanel("Aaryaman - Airquality prediction Model")
   
   # Sidebar with a slider input for number of bins 
   sidebarLayout(
