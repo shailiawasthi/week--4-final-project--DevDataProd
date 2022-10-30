@@ -1,7 +1,7 @@
 ---
 title: "Developing Data Products"
-author: "Savita Kohli"
-date: "April 16, 2018"
+author: "Aaryaman Awasthi"
+date: "October 30, 2022"
 output: slidy_presentation
 highlighter: highlight.js
 hitheme: zenburn
